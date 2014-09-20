@@ -1,9 +1,7 @@
----
-title: ""
-output: html_document
----
 
-# Introduction
+# README
+
+## Introduction
 
 This is **Getting and Cleaning Data** course assignment and use **Human Activity Recognition Using Smartphones Dataset** from [UIC Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 

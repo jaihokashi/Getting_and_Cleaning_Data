@@ -1,7 +1,5 @@
----
-title: 'CodeBook'
-output: html_document
----
+
+# CodeBook
 
 ### These are brief description of variables and data type.
 1. **Subject** :  Character data type - Subject.
